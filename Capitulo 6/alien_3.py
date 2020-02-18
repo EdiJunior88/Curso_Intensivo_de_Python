@@ -13,6 +13,6 @@ coordenada y com o valor 25 positivo, como vemos aqui
 alien_0 = {'cor': 'verde', 'pontuação': 5}
 print(alien_0)
 
-alien_0['x_position'] = 0
-alien_0['y_position'] = 25
+alien_0['x_posição'] = 0
+alien_0['y_posição'] = 25
 print(alien_0)
