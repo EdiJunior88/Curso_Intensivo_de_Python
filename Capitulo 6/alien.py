@@ -7,4 +7,4 @@ sobre um alienígena em particular
 alien_0 = {'cor': 'verde', 'pontos': 5}
 
 print(alien_0['cor'])
-print(alien_0['pontos'])
+print(alien_0['pontos']
