@@ -6,8 +6,10 @@ pessoas com um laço. À medida que percorrer a lista, apresente tudo que você
 sabe sobre cada pessoa
 """
 
+#Faça uma lista vazia para armazenar pessoas.
 pessoas = []
 
+#Defina algumas pessoas e adicione-as à lista.
 personalidade = {
     'primeiro nome': 'edivaldo',
     'ultimo nome': 'junior',
@@ -32,6 +34,7 @@ personalidade = {
 }
 pessoas.append(personalidade)
 
+#Exibir todas as informações no dicionário.
 for personalidade in pessoas:
     nome = personalidade['primeiro nome'].title() + " " + personalidade['ultimo nome'].title()
     idade = str(personalidade['idade'])
