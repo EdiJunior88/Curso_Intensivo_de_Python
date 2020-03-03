@@ -1,5 +1,5 @@
 """
-empre que usar a função input(), inclua um prompt claro, fácil de
+Sempre que usar a função input(), inclua um prompt claro, fácil de
 compreender, que informe o usuário exatamente que tipo de informação
 você procura. Qualquer frase que diga aos usuários o que eles devem
 fornecer será apropriada. Por exemplo:
